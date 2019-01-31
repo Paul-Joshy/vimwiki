@@ -1,0 +1,13 @@
+= dmenu =
+
+Used for creating menus based on input from the command line
+
+Suppose a file has the following contents
+
+Item 1
+Item 2
+Item 3
+
+You can use dmenu to take these items and form a menu like this
+
+cat file | dmenu

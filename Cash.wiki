@@ -1,0 +1,7 @@
+= Cash =
+
+Installed via npm: npm install cash -g
+
+Example:
+
+cash 100 USD INR

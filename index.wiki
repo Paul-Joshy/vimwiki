@@ -1,0 +1,10 @@
+= My knowledge base =
+
+Here is the list of the notes that I make in general
+
+* [[Linux]]
+
+
+= Unsorted =
+
+This is the place where I store all my unsorted info about stuff

@@ -1,0 +1,9 @@
+= Vim =
+
+== Command Examples ==
+
+:g/norm @a -> Execute @a macro on all lines
+
+== Plugins ==
+
+- [[vimwiki]]

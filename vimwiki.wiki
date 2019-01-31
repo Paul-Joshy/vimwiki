@@ -1,0 +1,8 @@
+= Vim wiki =
+
+== Commands ==
+
+Go to index: <Leader>ww
+Go back: Backspace
+Create a link: <CR>
+Go to link: <CR> on an existing link

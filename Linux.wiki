@@ -1,0 +1,10 @@
+=Linux=
+
+Here you can find all the information that I have about
+- The UNIX system
+- The Linux kernel
+- OS and distros
+- CLI programs
+
+- [[Partition| Standard linux partitioning]]
+- [[CLI| command line programs]]

@@ -1,0 +1,9 @@
+= Standard Linux Partitioning =
+
+Copied from https://www.howtogeek.com/howto/35676/how-to-choose-a-partition-scheme-for-your-linux-pc/
+
+The standard partitions scheme for most home Linux installs is as follows:
+
+- A 12-20 GB partition for the OS, which gets mounted as / (called “root”)
+- A smaller partition used to augment your RAM, mounted and referred to as swap
+- A larger partition for personal use, mounted as /home

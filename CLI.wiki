@@ -1,5 +1,12 @@
 = Command Line Programs =
 
-- [[dmenu| dmenu: for creating menus]]
-- [[Vim| This editor]]
-- [[Cash| Cash: for converting currency]]
+This includes URxvt cuz it's the terminal
+
+- [[dmenu|dmenu: for creating menus]]
+- [[Vim|This editor]]
+- [[Cash|Cash: for converting currency]]
+- [[URxvt]]
+- [[Emacs]]
+- grep
+- [[awk]]
+- sed

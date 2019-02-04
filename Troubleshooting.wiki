@@ -1,0 +1,4 @@
+= Troubleshooting =
+
+If everything is stuck
+- Try to open another TTY by pressing Ctrl Alt Function keys

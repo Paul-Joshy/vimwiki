@@ -6,5 +6,8 @@ Here you can find all the information that I have about
 - OS and distros
 - CLI programs
 
-- [[Partition| Standard linux partitioning]]
-- [[CLI| command line programs]]
+There are some programs which will work on other systems also but most CLI non development programs are included here for now
+
+- [[Partition|Standard linux partitioning]]
+- [[CLI|command line programs]]
+- [[Troubleshooting]]

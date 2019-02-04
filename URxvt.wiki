@@ -1,0 +1,7 @@
+= URxvt =
+
+= Keybindings =
+
+scroll up/down = PgUp PgDn
+Copy = Ctrl Alt C
+Paste = Ctrl Alc v

@@ -3,8 +3,13 @@
 Here is the list of the notes that I make in general
 
 * [[Linux]]
+* [[Open source|Open source development]]
+* [[Navigating digital information]]
+
 
 
 = Unsorted =
 
 This is the place where I store all my unsorted info about stuff
+
+[[vimwiki|Vim wiki help]]

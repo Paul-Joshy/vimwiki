@@ -1,0 +1,6 @@
+ = Telegram =
+ 
+Tdlib  https://core.telegram.org/tdlib/docs/
+Telegram API for creating telegram clients
+
+- Could write a node script to automate uploading of stuff to groups

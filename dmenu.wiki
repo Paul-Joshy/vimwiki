@@ -2,6 +2,8 @@
 
 Used for creating menus based on input from the command line
 
+Install it via apt
+
 Suppose a file has the following contents
 
 Item 1

@@ -10,3 +10,4 @@ This includes URxvt cuz it's the terminal
 - grep
 - [[awk]]
 - sed
+- [[apt]]

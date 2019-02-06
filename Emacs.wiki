@@ -1,7 +1,7 @@
 = Emacs =
 
 
-= Org Mode =
+== Org Mode ==
 snippets example
 
 #+BEGIN_SRC language

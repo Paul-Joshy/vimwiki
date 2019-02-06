@@ -1,0 +1,8 @@
+= Mongo queries =
+
+*Mongodump*
+mongodump --db <database_name> --collection <collection_name> -o <filename>
+
+*Mongorestore*
+mongorestore --db <database_name> path/to/bson/file
+

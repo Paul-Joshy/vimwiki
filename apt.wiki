@@ -1,0 +1,4 @@
+= apt = 
+
+*Install package from deb file*
+sudo apt install ./<path>/<filename>.deb

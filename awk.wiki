@@ -1,6 +1,5 @@
 = awk =
 
-== Basic ==
-
+*Basic*
 $@ for all input
 $1 for 1 word, etc

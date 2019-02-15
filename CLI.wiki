@@ -11,3 +11,6 @@ This includes URxvt cuz it's the terminal
 - [[awk]]
 - sed
 - [[apt]]
+- [[xrandr|Managing screen resolutions]]
+- [[bash]]
+- [[regex|Regular Expressions]]

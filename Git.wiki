@@ -1,0 +1,19 @@
+= Git commands =
+
+*Stop git from tracking a file which is already committed*
+git update-index --skip-worktree path/to/file
+
+*Remove untracked files*
+Git clean
+
+*Do particular command patch by patch*
+git <command> -p
+
+Examples
+
+git checkout -p
+git add -p
+
+*Use cached passwords instead of typing them out*
+git config credential.helper store
+then git pull

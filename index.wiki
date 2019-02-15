@@ -5,6 +5,7 @@ Here is the list of the notes that I make in general
 * [[Linux]]
 * [[Open source|Open source development]]
 * [[Navigating digital information]]
+* [[Android]]
 
 
 

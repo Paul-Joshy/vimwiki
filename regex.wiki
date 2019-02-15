@@ -1,0 +1,6 @@
+= Regular Expressions =
+
+== Vim ==
+*Append pattern using substitute*
+use &
+*Example* %s/<pattern>/&<substitute pattern>

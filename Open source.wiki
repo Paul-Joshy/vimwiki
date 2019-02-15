@@ -2,5 +2,7 @@
 
 Here is the list of all things open source. That means it runs on all platforms, not just linux
 
-- [[Telegram| Telegram APIs]]
+- [[Telegram|Telegram APIs]]
 - [[Mongodb]]
+- [[Git]]
+- [[PM2]]

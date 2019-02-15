@@ -2,3 +2,13 @@
 
 *If everything is stuck*
 - Try to open another TTY by pressing Ctrl Alt Function keys
+
+== System stats ==
+
+disk space = df [-options]
+filesystem space = du path/to/file [-options]
+
+*Networking*
+
+iftop: Manage bandwidth
+iftop -i wlp2so (check wifi bandwidth)

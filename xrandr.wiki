@@ -1,0 +1,5 @@
+= Xrandr =
+
+You can write scripts for it to apply different resolutions
+
+Or you can try the arandr GUI which writes the scripts for you

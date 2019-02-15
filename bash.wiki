@@ -1,0 +1,9 @@
+= bash =
+
+You can run a bash script in 2 ways
+
+./<script.sh>
+
+of
+
+sh <script.sh>

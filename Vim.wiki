@@ -4,6 +4,9 @@
 
 :g/norm @a -> Execute @a macro on all lines
 * -> Search for word in cursor
+<C-a> increase number under cursor
+<C-x> decrease number under cursor
+
 
 == Splits ==
 
@@ -17,6 +20,7 @@ ctrl-w =         - make all equal size
 :sview file      - same as split, but readonly
 :close           - close current window
 
+- [[regex|Regular Expressions]]
 
 == Plugins ==
 

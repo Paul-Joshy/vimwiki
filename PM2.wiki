@@ -1,0 +1,10 @@
+= PM2 =
+
+basic commands
+pm2 dump
+pm2 resurrect - for restoring the pm2 dump
+
+pm2 start
+pm2 stop
+pm2 restart
+pm2 delete

@@ -1,0 +1,10 @@
+= Find =
+
+*find and execute command on all found files*
+`find -name "<pattern>" -exec <command> \;`
+
+use `{}` as a placeholder for the found files
+
+For example:
+`find -name "*.pdf" -exec cp {} /dir \;`
+will find all the files with the pdf extension and copy it to the /dir folder

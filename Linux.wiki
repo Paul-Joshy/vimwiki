@@ -11,3 +11,4 @@ There are some programs which will work on other systems also but most CLI non d
 - [[Partition|Standard linux partitioning]]
 - [[CLI|command line programs]]
 - [[Troubleshooting|System Management]]
+- [[Utilities]]

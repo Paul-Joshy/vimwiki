@@ -5,10 +5,13 @@
 
 == System stats ==
 
-disk space = df [-options]
-filesystem space = du path/to/file [-options]
+disk space = `df [-options]`
+filesystem space = `du path/to/file [-options]`
 
-*Networking*
-
+== Networking ==
 iftop: Manage bandwidth
-iftop -i wlp2so (check wifi bandwidth)
+`iftop -i wlp2so (check wifi bandwidth)`
+
+*get public ip*
+`ip addr | awk '/inet / {sub(/\/.*/, "", $2); print $2}'`
+

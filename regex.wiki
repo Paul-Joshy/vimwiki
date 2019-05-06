@@ -3,4 +3,4 @@
 == Vim ==
 *Append pattern using substitute*
 use &
-*Example* %s/<pattern>/&<substitute pattern>
+*Example* `%s/<pattern>/&<substitute pattern>`

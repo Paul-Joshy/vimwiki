@@ -1,0 +1,5 @@
+= Utilities =
+
+*write iso to sda*
+`dd if=Path/To/iso/file.iso of=/dev/sd* status="progress"`
+

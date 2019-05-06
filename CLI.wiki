@@ -14,3 +14,4 @@ This includes URxvt cuz it's the terminal
 - [[xrandr|Managing screen resolutions]]
 - [[bash]]
 - [[regex|Regular Expressions]]
+- [[find]]

@@ -4,4 +4,4 @@
 
 scroll up/down = PgUp PgDn
 Copy = Ctrl Alt C
-Paste = Ctrl Alc v
+Paste = Ctrl Alt v

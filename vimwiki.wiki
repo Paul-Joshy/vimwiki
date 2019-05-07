@@ -2,6 +2,8 @@
 
 == Commands ==
 
+Leader key is \
+
 Go to index: <Leader>ww
 Go back: Backspace
 Create a link: <CR>
